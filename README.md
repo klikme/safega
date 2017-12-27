@@ -1,0 +1,2 @@
+# safega
+untuk wp
